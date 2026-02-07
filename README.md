@@ -68,7 +68,7 @@ Deviation: +60%
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/yourname/ethereal-watcher.git
+git clone https://github.com/ylevelu/ethereal_cex_dex_fundament_tokens.git
 cd ethereal-watcher
 2️⃣ Create a virtual environment
 python -m venv venv
@@ -166,3 +166,4 @@ Web dashboard
 ## ⚠️ Disclaimer
 ## This project is provided for research and educational purposes only.
 ## The author is not responsible for any trading decisions or financial losses.
+
